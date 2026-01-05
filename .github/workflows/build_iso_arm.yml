@@ -1,4 +1,4 @@
-name: Build ISOs
+name: Build ISOs (arm64)
 
 on:
   workflow_dispatch:
